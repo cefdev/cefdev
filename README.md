@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello There! 👋
 
-<!--
-**cefdev/cefdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm Mounssif, a Software Developer with good knowledge of Front-end Techniques, based in Agadir, Morocco.
 
-Here are some ideas to get you started:
+I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+My goal is to always build products that provide pixel-perfect, performant experiences.
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 🚀  &nbsp; Working on my [Portfolio](https://github.com/cefdev/portfolio)
++ ⭐️  &nbsp; Featured project: [Among US | The Matching Card Game](https://github.com/cefdev/Matching-Card-Game) made purely with CSS and JavaScript
++ 🌱  &nbsp; Learning `Node`, `React.JS`, `Next.JS`
++ 💬  &nbsp; Ask me about `JavaScript` & `React.JS`
++ 📫  &nbsp; Reach me via: [Instagram](https://www.instagram.com/cef.dev)
