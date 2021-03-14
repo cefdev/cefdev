@@ -8,6 +8,6 @@ ___
 
 + 🚀  &nbsp; Working on my [Portfolio](https://github.com/cefdev/portfolio)
 + ⭐️  &nbsp; Featured project: [Among US | The Matching Card Game](https://github.com/cefdev/Matching-Card-Game) made purely with CSS and JavaScript
-+ 🌱  &nbsp; Learning `Node`, `React.JS`, `Next.JS`
++ 🌱  &nbsp; Learning `React.JS`, `Next.JS`
 + 💬  &nbsp; Ask me about `JavaScript` & `React.JS`
-+ 📫  &nbsp; Reach me via: [Instagram](https://www.instagram.com/cef.dev)
++ 📫  &nbsp; Reach me via: [Instagram](https://www.instagram.com/cefdev), [LinkedIn](https://www.linkedin.com/in/cefdev/)
