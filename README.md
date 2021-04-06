@@ -1,6 +1,6 @@
 ### Hello There! 👋
 
-> I'm Mounssif, a Software Developer with good knowledge of Front-end Techniques, based in Agadir, Morocco. Check out my [Website](https://koumila.netlify.app/)
+> I'm Mounssif, a Software Developer with good knowledge of Front-end Techniques, based in Agadir, Morocco. Check out my [Portfolio](https://koumila.netlify.app/)
 
 I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
 My goal is to always build products that provide pixel-perfect, performant experiences.
